@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\comhandle.o
+./release\messagegetter.o
+./release\messagesender.o
+./release\comoperator.o
+./release\tele_3_plugin_import.o
+./release\moc_mainwindow.o
+./release\moc_messagegetter.o
+./release\moc_messagesender.o
+);

@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\comhandle.o
+./debug\messagegetter.o
+./debug\messagesender.o
+./debug\comoperator.o
+./debug\tele_3_plugin_import.o
+./debug\moc_mainwindow.o
+./debug\moc_messagegetter.o
+./debug\moc_messagesender.o
+);
